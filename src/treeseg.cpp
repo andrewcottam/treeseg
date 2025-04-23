@@ -28,6 +28,7 @@
 // Point Cloud Library (http://www.pointclouds.org)
 
 #include "treeseg.h"
+#include <boost/algorithm/string.hpp>
 
 #include <pcl/io/pcd_io.h>
 #include <pcl/common/transforms.h>

@@ -1,4 +1,5 @@
 #include "treeseg.h"
+#include <boost/algorithm/string.hpp>
 
 #include <pcl/io/pcd_io.h>
 
